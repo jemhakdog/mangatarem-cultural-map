@@ -1,0 +1,7 @@
+{
+  "name": "Mangatarem Cultural Map",
+  "description": "An interactive digital cultural map and local tourism system for Mangatarem, Pangasinan, featuring AI-guided tours, real-time events, and an analytics dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
